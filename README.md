@@ -9,7 +9,7 @@ My skillset include;
 
  •Computer programming and Coding
  
-      C | Python | JavaScript  | HTML | CSS | Data Structures & Algorithms | MySQL | MySQLAlcheny
+      C | Python | JavaScript  | HTML | CSS | Data Structures & Algorithms
  
  •Software Testing
  
@@ -33,4 +33,16 @@ My skillset include;
  
  •Software Debugging
 
- •Software Development life cycle 
+ •Software Development life cycle
+
+ •Bash
+
+ •Scripting
+     
+      Regular expressions
+
+ •Web stack
+
+      Servers | load balancing | SSL | SSH  | DNS 
+ 
+ •Configuration Management 
