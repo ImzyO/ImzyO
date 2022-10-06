@@ -2,7 +2,7 @@
 <h3 align="center">Student software engineer at ALX Holberton | On my journey to become a full stack developer</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 - •Computer programming and Coding: **C | Python | JavaScript | HTML | CSS | Data Structures & Algorithms**
