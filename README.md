@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Imani</h1>
 <h3 align="center">Student software engineer at ALX Holberton | On my journey to become a full stack developer</h3>
 
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- •Computer programming and Coding 
--           **C | Python | JavaScript | HTML | CSS | Data Structures & Algorithms**
 
-- •Software Development **Development | Testing | Deployment | Monitoring**
+- •Computer programming and Coding: **C | Python | JavaScript | HTML | CSS | Data Structures & Algorithms**
 
-- •Software Testing **Unit testing**
+- •Software Development: **Development | Testing | Deployment | Monitoring**
 
-- •Object Oriented Design **Inheritance | Encapsulation | Abstraction**
+- •Software Testing: **Unit testing**
 
-- •Database Management & •Configuration Management **MySQL | MySQLAlchemy**
+- •Object Oriented Design: **Inheritance | Encapsulation | Abstraction**
 
-- •Web stack **Servers | load balancing | SSL | SSH | DNS**
+- •Database Management: **MySQL | MySQLAlchemy** & •Configuration Management 
+
+- •Web stack: **Servers | load balancing | SSL | SSH | DNS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
