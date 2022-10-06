@@ -3,7 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- •Computer programming and Coding **C | Python | JavaScript | HTML | CSS | Data Structures & Algorithms**
+- •Computer programming and Coding 
+-           **C | Python | JavaScript | HTML | CSS | Data Structures & Algorithms**
 
 - •Software Development **Development | Testing | Deployment | Monitoring**
 
